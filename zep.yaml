@@ -1,4 +1,4 @@
-api_secret: Netanelyasi@1990
+api_secret: netanelyasi_1990
 datastore:
   type: sqlite
   path: /data/zep.db
